@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![PERFIL TWITCH OK](https://github.com/guilhermedevel/guilhermedevel/assets/99112211/0ee9e71e-df7f-4c6c-bf60-12e0077ed785)
-
 <!--
 **guilhermedevel/guilhermedevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
